@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.4 - 2025-12-23
+- Mostrar tags compactos (géneros y tags relevantes) en las tarjetas de exploración.
+- Nuevo criterio de selección de animes: Recomendados.
+- Auto-check de actualizaciones al abrir la app.
+- Nuevo flujo de watchlist.
+- Reordenamiento de botones en el home.
+
 ## 0.1.3 - 2025-12-23
 - Share Top-10 ranking as a story-friendly image.
 - In-app update download/install flow with SHA-256 verification and User-Agent fix.
