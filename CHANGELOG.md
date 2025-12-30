@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.5 - 2025-12-30
+- Automatic offline support: pause online operations, show offline status, and retry titles when back online.
+- Update flow improvements: retry check, UI synced with install result, download/hash errors, and no PackageInstaller session leaks.
+- Encrypted backup/restore with UI and stats.
+- Prefetch/recommended: per-source pools, rotation, stale locks, recommended priority, and a single seed.
+- AniList adjustments: global throttling, cooldown sync, and rate limit headers.
+- Ladder: history replay, atomicity, and top-X insertion fixes.
+- Search: escape LIKE wildcards.
+- Stability/tooling: PyBridge robust to invalid JSON, scheduler probe, and side-by-side debug install.
+
 ## 0.1.4 - 2025-12-23
 - Display compact tags (genres and relevant tags) on the browse cards.
 - New anime selection criterion: Recommended.
