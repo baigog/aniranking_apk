@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.6 - 2026-01-06
+- Backup: stronger KDF-based encryption (legacy compatible), streaming export, and include media_rel/rec_cache.
+- Backup restore: foreign_keys handling fixed and file import/export path handling hardened.
+- Session history retention for events and snapshots to keep DB size bounded.
+- Search: surface errors on failures, filter adult titles in online search, and auto-create session for actions after restore.
+
 ## 0.1.5 - 2025-12-30
 - Automatic offline support: pause online operations, show offline status, and retry titles when back online.
 - Update flow improvements: retry check, UI synced with install result, download/hash errors, and no PackageInstaller session leaks.
