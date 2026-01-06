@@ -1,26 +1,26 @@
 # AniRanking
 
-AniRanking es una app para descubrir anime y armar tu ranking personal de forma rápida y entretenida. Está pensada para ayudarte a decidir qué ver, qué guardar para después y qué dejar pasar, sin perder tiempo.
+AniRanking is an app to discover anime and build your personal ranking in a fast and fun way. It helps you decide what to watch, what to save for later, and what to skip.
 
-## Qué puedes hacer:
-- Explorar títulos con sinopsis y tags para entender rápido de qué van.
-- Marcar animes como “me gustó”, “no me gustó” o “saltar”.
-- Armar tu ranking con duelos rápidos entre títulos.
-- Guardar animes en tu watchlist para ver más adelante.
-- Buscar un anime específico y sumarlo a tu lista.
-- Compartir tu Top 10 como imagen.
+## What you can do:
+- Explore titles with synopsis and tags to quickly understand what they are about.
+- Mark anime as "liked", "disliked", or "skip".
+- Build your ranking with quick duels between titles.
+- Save anime to your watchlist for later.
+- Search for a specific anime and add it to your list.
+- Share your Top 10 as an image.
 
-Si te gusta descubrir series nuevas o ordenar tus favoritos, AniRanking te da una forma simple y divertida de hacerlo.
+If you enjoy discovering new series or sorting your favorites, AniRanking gives you a simple and fun way to do it.
 
-## Como empezar
-- Instala la app y abrela.
-- Entra en “Explorar animes” para descubrir títulos nuevos.
-  * Dale like para meterlo en la fase de duelos!
-  * Dale a dislike si es un animé que no te gustó y definitivamente no va a tu ranking
-- Puedes buscar animes que quieras agregar a la ronda de duelos explicitamente.
-- Los duelos se hacen entre tus animes likeados para armar tu ranking, tan simple como eso!
+## How to get started
+- Install the app and open it.
+- Go to "Explore anime" to discover new titles.
+  * Tap like to send it to the duel phase.
+  * Tap dislike if it is an anime you did not like and it should not enter your ranking.
+- You can search for anime you want to add to the duel queue explicitly.
+- Duels are made between your liked anime to build your ranking, that is it.
 
 ## FAQ
-- ¿Necesito cuenta? No, la app funciona sin registro.
-- ¿Qué pasa si no conozco un anime? Podes darle skip si no lo has visto; o tal sío lo has visto y no crees que es candidato para tu top. Sumalo a la watchlist si te interesa verlo y quierés tenerlo guardado para ver después.
-- ¿Puedo compartir mi ranking? Sí, puedes compartir tu Top 10 como imagen.
+- Do I need an account? No, the app works without registration.
+- What if I do not know an anime? You can skip it if you have not seen it. Or, if you have seen it and do not think it is a top candidate, skip it. Add it to the watchlist if you want to see it later.
+- Can I share my ranking? Yes, you can share your Top 10 as an image.
